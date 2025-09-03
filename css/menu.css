@@ -1,0 +1,34 @@
+body{
+    font-size: 12px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-transform: uppercase;
+    color: bisque;
+}
+
+#logo{
+    background-image: url(../img/imagem_transparente.jpg.png);
+    width: 421px;
+    height: 106px;
+}
+
+#menu{
+    width: 100%;
+}
+
+ul{
+    border: 3px solid bisque;
+    background-color: black;
+    margin: 10px;
+    padding: 14px;
+    border-radius: 0 10px 0 10px;
+}
+
+ul li{
+    display: inline;
+}
+
+ul li a{
+    text-decoration: none;
+    color: bisque;
+    padding: 14px;
+}
